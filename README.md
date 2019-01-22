@@ -1,8 +1,6 @@
 # FDR_FSIGEN_2019
 Supp Data App from:
-"Optimizing the information increase through the addition of relatives and genetic markers in identification and kinship cases"
-
-FSI: Genetics
+"Optimizing the information increase through the addition of relatives and genetic markers in identification and kinship cases" FSI: Genetics, 2019
 
 Abstract:
 
