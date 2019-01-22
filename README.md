@@ -5,6 +5,7 @@ Supp Data App from:
 FSI: Genetics
 
 Abstract:
+
 In kinship testing powerful statistical results are usually obtained when genetic information is required to be shared between a set of individuals, under the assumption of one of the hypotheses. This is the case when the hypotheses
 parenthood or identity are compared with the hypothesis of no relatedness, even when only a pair of individuals is analyzed. In this work we will consider kinship problems where the sharing of genetic information is not required when
 a pair of individuals is analyzed, such as is the case of the hypotheses full-siblings or avuncular. Statistical evaluation was computed through the quantification of likelihood ratios, assuming the genotypic configuration of 100,000
@@ -14,5 +15,6 @@ STRs (from 8 to 35), and (b.) the introduction of a third undoubted relative. Ba
 whose genetic analysis should be privileged.
 
 Keywords:
+
 kinship testing; full-siblings; half-siblings; siblings; cousins; avuncular; likelihood
 ratio
